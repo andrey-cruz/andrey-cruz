@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Entrei na área de tecnologia em 2020, movido pelo meu interesse e paixão por explorar o mundo digital. Atualmente, sou estudante de <b>Sistemas de Informação na UNISUL</b>, e estou sempre em busca de novos conhecimentos e desafios. Meu foco principal é o desenvolvimento full-stack, mas também estou interessado em aprender sobre outras áreas e linguagens da tecnologia.</p>
+<p align="left">Entrei na área de tecnologia em 2020, movido pelo meu interesse e paixão por explorar o mundo digital. Atualmente, sou estudante de <b>Sistemas de Informação na UNISUL</b>, e estou sempre em busca de novos conhecimentos e desafios. Meu foco principal é análise de dados, mas também estou interessado em aprender sobre outras áreas e linguagens da tecnologia.</p>
 
 ###
 
